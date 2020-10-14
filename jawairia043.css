@@ -1,0 +1,71 @@
+th {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+  }
+
+  td {
+    text-align: center;
+    background-color: honeydew;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+  }
+
+  #but1 {
+    background-color: red;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  #but2 {
+    background-color: green;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  table {
+    float: left;
+    margin-left: 110px;
+    margin-top: 70px;
+  }
+  #one {
+    float: right;
+    border: red solid 2px;
+    padding: 25px 25px;
+    font-size: 20px;
+    margin-right: 110px;
+    margin-top: 70px;
+  }
+  #name {
+    margin-bottom: 15px;
+  }
+  #gender {
+    margin-bottom: 15px;
+  }
+  #ge {
+    margin-bottom: 15px;
+  }
+  #city {
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+
+  #two {
+    background-color: darkblue;
+    color: white;
+  }
+  #three {
+    background-color: violet;
+    color: black;
+  }
+  #four {
+    background-color: blue;
+    color: cornsilk;
+    padding: 10px 10px;
+  }
